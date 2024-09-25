@@ -3,6 +3,17 @@
 Atualmente, sou **Desenvolvedor *Full Stack*** na [FarmGO](https://farmgo.com.br/), trabalhando com Python e os *frameworks* FastAPI e Django.
 Tenho interesse em tópicos referentes à arquitetura de software. Em especial, conceitos envolvendo arquitetura limpa, *design patterns* e escalabilidade.
 
+### Interesses
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [SOLID Principles](https://www.amazon.com/Practical-Guide-SOLID-Design-Principles/dp/B0C2RZDX12)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+- [Python](https://www.python.org/)
+- [Java](https://www.java.com/pt-BR/)
+- [Django](https://www.djangoproject.com/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+
 ### Experiência Profissional
 
 - Estágio obrigatório (2011) - Desenvolvimento de Software na [Makito](https://makito.com.br/). Linguagem Dataflex.
