@@ -27,7 +27,7 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 - Técnico em Informática pela [Universidade Tecnológica Federal do Paraná (UTFPr) - Campo Mourão](https://www.utfpr.edu.br/campus/campomourao/home) (2009-2012)
 - Bacharel em Informática pela [Universidade Estadual de Maringá](https://www.uem.br/) (2013-2017)
 - Mestre em Ciência da Computação pelo [Departamento de Informática](https://www.uem.br/din/pos-graduacao) da [Universidade Estadual de Maringá](https://www.uem.br/) (2018-2021)
-- Segundo lugar no Concurso de Teses e Dissertações (CTDQS) do XIV Simpósio Brasileiro de Qualidade de Software (SBQS), Sociedade Brasileira de Computação.
+- Segundo lugar no [Concurso de Teses e Dissertações (CTDQS)](https://dl.acm.org/doi/10.1145/3493244.3493274) do XX Simpósio Brasileiro de Qualidade de Software (SBQS), Sociedade Brasileira de Computação.
 
 
 ### Resumo
