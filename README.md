@@ -17,8 +17,8 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 ### Experiência Profissional
 
 - Estágio obrigatório (2011) - Desenvolvimento de Software na [Makito](https://makito.com.br/). Linguagem Dataflex.
-- Trabalho 30 h/semanais (2013-2017) - Assessoria de Planejamento (ASP) e Núcleo de Processamento de Dados (NPD). Desenvolvimento do sistema de exportação de dados para o censo do INEP. Linguagem Java. Framework ZK. O Sistema do Censo foi registrado pelo INPI Censo UEM - Módulo Alunos BR512019002955-0.
-- Pesquisador (2018-2020) - CAPES. Linguagem Java. Desenvolvimento de um ambiente para modelagem de linhas de produtos de software em UML: o ***SMartyModeling**. Registro INPI 51 2020 002126-3.
+- Trabalho 30 h/semanais (2013-2017) - Assessoria de Planejamento (ASP) e Núcleo de Processamento de Dados (NPD). Desenvolvimento do sistema de exportação de dados para o censo do INEP. Linguagem Java. Framework ZK. O Sistema do Censo foi registrado pelo INPI Censo UEM - Módulo Alunos Processo [BR512019002955-0](https://www.cpr.uem.br/pite/index.php/portfolio-de-tecnologias/3409-censo-uem-modulo-alunos).
+- Pesquisador (2018-2020) - CAPES. Linguagem Java. Desenvolvimento de um ambiente para modelagem de linhas de produtos de software em UML: o **SMartyModeling**. Registro INPI [51 2020 002126-3](https://www.cpr.uem.br/pite/index.php/portfolio-de-tecnologias/3411-smartymodeling).
 - Programador *Full Stack* (2021 - Atual) - [FarmGO](https://farmgo.com.br/). Programador Python, com *frameworks* FastAPI e Django.
 - Professor (2023 - 2024) - [Centro Universitário Cidade Verde (UNICV)](https://unicv.edu.br/). Professor das disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados (SQL) no semestre 01/2023. Professor das disciplinas de Orientação a Objetos em Python e Java nos semestres 02/2023 e 01/2024. 
 
