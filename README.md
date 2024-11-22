@@ -22,7 +22,7 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 - Pesquisador (2018-2020) - CAPES. Linguagem Java. Desenvolvimento de um ambiente para modelagem de linhas de produtos de software em UML: o **SMartyModeling**. Registro INPI [BR512020 002126-3](https://www.cpr.uem.br/pite/index.php/portfolio-de-tecnologias/3411-smartymodeling).
 - Programador *Full Stack* (2021 - 2024) - [FarmGO](https://farmgo.com.br/). Programador [Python](https://www.python.org/), com *frameworks* [FastAPI](https://fastapi.tiangolo.com/) e [Django](https://www.djangoproject.com/).
 - Professor (2023 - 2024) - [Centro Universitário Cidade Verde (UNICV)](https://unicv.edu.br/). Professor de ensino superior dos cursos de [Engenharia de Software](https://cursos.unifcv.edu.br/graduacao/engenharia-de-software) e [Análise e Desenvolvimento de Sistemas](https://cursos.unifcv.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas). Lecionei as disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados no primeiro semestre de 2023. Lecionei as disciplinas de Orientação a Objetos em Python e Java no segundo semestre de 2023 e primeiro semestre de 2024. 
-- Programador Pleno (2024 - Atual). Programador Pleno Python com a plataforma ArcGIS.
+- Programador Pleno (2024 - Atual) - [Imagem Geosistemas](https://www.img.com.br/pt-br/home). Programador Pleno Python com a plataforma ArcGIS.
 
 ### Experiência Acadêmica
 
