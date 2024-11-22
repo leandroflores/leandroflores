@@ -42,8 +42,9 @@ Em 2013, ingressei na Universidade Estadual de Maringá (UEM) no curso Bacharel 
 
 Em 2018, ingressei no mestrado em Ciência da Computação pela Universidade Estadual de Maringá (UEM). Com a orientação do prof. Dr. Edson OliveiraJr desenvolvi com linguagem de programação Java, um ambiente para modelagem de linhas de produtos de software em UML: o ***SMartyModeling***. O [***SMartyModeling***](https://github.com/leandroflores/smartymodeling_eng) está registrado no INPI BR com o regitro 51 2020 002126-3. Defendi minha dissertação em Novembro de 2020. O texto completo está disponível [aqui](http://repositorio.uem.br:8080/jspui/handle/1/7554).
 
-Em 2021, passei a fazer parte da [FarmGO](https://farmgo.com.br/), e desde então, venho programando em Python, em especial com os *frameworks* Django e FastAPI.
+De março de 2021 à outubro de 2024, fiz parte da [FarmGO](https://farmgo.com.br/), programando em Python, em especial com os *frameworks* Django e FastAPI. Trabalhei com uma plataforma para monitoramento lavouras, serviço para estações meterológicas, *features* para um sistema de crédito rural, relatórios e imagens para mapas interativos.
 
 Em 2023 e no primeiro semestre de 2024, fui professor de ensino superior no [Centro Universitário Cidade Verde (UNICV)](https://unicv.edu.br/). Lecionei as disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados (01/2023). E as disciplinas de Orientação a Objetos em Python e Java nos semestres 02/2023 e 01/2024. 
 
+Em novembro de 2024, passei a ser parte do time de *Utilities* da  [Imagem Geosistemas](https://www.img.com.br/pt-br/home).
 
