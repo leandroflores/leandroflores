@@ -31,7 +31,7 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 - [Bacharel em Informática](http://www.pen.uem.br/site/public/curso/a99a3305e6ffbd5db96ef5506978504214b31397) pela [Universidade Estadual de Maringá](https://www.uem.br/) (2013-2017)
 - [Mestre em Ciência da Computação](https://pcc.uem.br/apresentacao) pelo [Departamento de Informática](https://www.uem.br/din/pos-graduacao) da [Universidade Estadual de Maringá](https://www.uem.br/) (2018-2021)
 - Segundo lugar no [Concurso de Teses e Dissertações (CTDQS)](https://dl.acm.org/doi/10.1145/3493244.3493274) do XX Simpósio Brasileiro de Qualidade de Software (SBQS), Sociedade Brasileira de Computação.
-- Cursando MBA em Data Science, Inteligência Artificial e Analytics pela [Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz](https://www.esalq.usp.br/). 
+- Cursando [MBA em Data Science, Inteligência Artificial e Analytics](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics) pela [Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz](https://www.esalq.usp.br/). 
 
 ### Resumo
 
