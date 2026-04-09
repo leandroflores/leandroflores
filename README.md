@@ -1,7 +1,7 @@
 ## Olá, sou o Leandro! 👋
 
 Meu nome completo é Leandro Flores da Silva.
-Atualmente, sou **Desenvolvedor Pleno** na [Imagem Geosistemas](https://www.img.com.br/pt-br/home), trabalhando com Python e com a plataforma ArcGIS.
+Atualmente, sou **Gerente de Desenvolvimento** no [Unicive](https://unicive.com), trabalhando com a gestão de dez desenvolvedores em três squads de trabalho.
 Tenho interesse em tópicos referentes à arquitetura de software. Em especial, conceitos envolvendo arquitetura limpa, *design patterns* e escalabilidade.
 
 ### Interesses
@@ -22,7 +22,8 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 - Pesquisador (2018-2020) - CAPES. Linguagem Java. Desenvolvimento de um ambiente para modelagem de linhas de produtos de software em UML: o **SMartyModeling**. Registro INPI [BR512020 002126-3](https://www.cpr.uem.br/pite/index.php/portfolio-de-tecnologias/3411-smartymodeling).
 - Programador *Full Stack* (2021 - 2024) - [FarmGO](https://farmgo.com.br/). Programador [Python](https://www.python.org/), com *frameworks* [FastAPI](https://fastapi.tiangolo.com/) e [Django](https://www.djangoproject.com/).
 - Professor (2023 - 2024) - [Centro Universitário Cidade Verde (UNICV)](https://unicv.edu.br/). Professor de ensino superior dos cursos de [Engenharia de Software](https://cursos.unifcv.edu.br/graduacao/engenharia-de-software) e [Análise e Desenvolvimento de Sistemas](https://cursos.unifcv.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas). Lecionei as disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados no primeiro semestre de 2023. Lecionei as disciplinas de Orientação a Objetos em Python e Java no segundo semestre de 2023 e primeiro semestre de 2024. 
-- Programador Pleno (2024 - Atual) - [Imagem Geosistemas](https://www.img.com.br/pt-br/home). Programador Pleno Python com a plataforma ArcGIS.
+- Programador Pleno (2024 - 2025) - [Imagem Geosistemas](https://www.img.com.br/pt-br/home). Programador Pleno Python com a plataforma ArcGIS.
+- Gerente de Desenvolvimento (2025 - Atual) - [Unicive](https://unicive.com). Gerente de Desenvolvimento.
 
 ### Experiência Acadêmica
 
@@ -30,7 +31,7 @@ Tenho interesse em tópicos referentes à arquitetura de software. Em especial, 
 - [Bacharel em Informática](http://www.pen.uem.br/site/public/curso/a99a3305e6ffbd5db96ef5506978504214b31397) pela [Universidade Estadual de Maringá](https://www.uem.br/) (2013-2017)
 - [Mestre em Ciência da Computação](https://pcc.uem.br/apresentacao) pelo [Departamento de Informática](https://www.uem.br/din/pos-graduacao) da [Universidade Estadual de Maringá](https://www.uem.br/) (2018-2021)
 - Segundo lugar no [Concurso de Teses e Dissertações (CTDQS)](https://dl.acm.org/doi/10.1145/3493244.3493274) do XX Simpósio Brasileiro de Qualidade de Software (SBQS), Sociedade Brasileira de Computação.
-
+- Cursando MBA em Data Science, Inteligência Artificial e Analytics pela [Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz](https://www.esalq.usp.br/). 
 
 ### Resumo
 
@@ -48,3 +49,4 @@ Em 2023 e no primeiro semestre de 2024, fui professor de ensino superior no [Cen
 
 Em novembro de 2024, passei a ser parte do time de *Utilities* da  [Imagem Geosistemas](https://www.img.com.br/pt-br/home).
 
+Em novembro de 2025, passei a ser Gerente de Desenvolvimento no [Unicive](https://unicive.com/), coordenando e organizando um setor com 10 desenvolvedores.
