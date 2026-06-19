@@ -45,8 +45,8 @@ Em 2018, ingressei no mestrado em Ciência da Computação pela Universidade Est
 
 De março de 2021 à outubro de 2024, fiz parte da [FarmGO](https://farmgo.com.br/), programando em Python, em especial com os *frameworks* Django e FastAPI. Trabalhei com uma plataforma para monitoramento lavouras, serviço para estações meterológicas, *features* para um sistema de crédito rural, relatórios e imagens para mapas interativos.
 
-Em 2023 e no primeiro semestre de 2024, fui professor de ensino superior no [Centro Universitário Cidade Verde (UNICV)](https://unicv.edu.br/). Lecionei as disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados (01/2023). E as disciplinas de Orientação a Objetos em Python e Java nos semestres 02/2023 e 01/2024. 
+Em 2023 e no primeiro semestre de 2024, fui professor de ensino superior no [Centro Universitário Cidade Verde (UniCV)](https://unicive.com/). Lecionei as disciplinas de Modelagem de Banco de Dados e Gerenciamento de Banco de Dados (01/2023). E as disciplinas de Orientação a Objetos em Python e Java nos semestres 02/2023 e 01/2024. 
 
 Em novembro de 2024, passei a ser parte do time de *Utilities* da  [Imagem Geosistemas](https://www.img.com.br/pt-br/home).
 
-Em novembro de 2025, passei a ser Gerente de Desenvolvimento no [Unicive](https://unicive.com/), coordenando e organizando um setor com 10 desenvolvedores.
+Em novembro de 2025, passei a ser Gerente de Desenvolvimento no [Centro Universitário Cidade Verde (UNICIVE)](https://unicive.com/), coordenando e organizando um setor com 10 desenvolvedores.
